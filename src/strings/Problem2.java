@@ -1,5 +1,10 @@
 package strings;
 
+/*
+ * 
+ * reverse words in a string seprated by '.'
+ */
+
 public class Problem2 
 {
 	static String reverse(String s)
@@ -31,7 +36,7 @@ public class Problem2
 			 {
 				  s1+=reverse(s.substring(j,i+1));
 			 }
-		}
+		} 
 		System.out.println(s1);
 	}
 }
