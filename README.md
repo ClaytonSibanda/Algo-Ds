@@ -16,4 +16,14 @@
     
     Problem2: Reverse words in a string sepreated by '.'
     
-   
+ 
+ 3.   LinkedList
+ 
+    Problem1: Finding middle element in a linked list
+  
+    Problem2: Reverse a linked list
+
+    Problem3: Rotate a Linked List
+
+    Problem4: Reverse a Linked List in groups of given size
+
