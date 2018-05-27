@@ -46,5 +46,41 @@
     
     Problem17: Delete without head pointer
     
-    
+ 4. Trees
+ 
+	1. Recursive pre order
+	 
+	2. Recursive in order 
+	
+	3. Recursive post order
+	
+	4. Non Recursive Level Order Traversal
+	
+	5. Non Recursive Pre order traversal
+	
+	6. Non recursive In order traversal
+	
+	7. Non recursive post order
+	
+	8. reverse level order traversal
+	
+	9. count half nodes in a tree.
+	
+	10. count leaf nodes in a tree.
+	
+	11. count full nodes in a tree.
+	
+	12. Identical binary tree or not. **
+	
+	13. Height of the Binary tree.  **
+	
+	14. Search key x in the tree. **
+	
+	15. Size of the tree. **
+	
+	16. lca of the tree. **
+	
+	17. delete nodes of a tree Non recursive manner. **
+	
+	    
     
