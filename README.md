@@ -18,49 +18,113 @@
     
     Problem2: Reverse words in a string sepreated by '.'
     
+    Problem3: Permutation of string.
     
- 
+    Problem4: Reverse a string.
+    
+    Problem5: Count no of 1's that are not consective in binary  string.
+    
+    Problem6: Find the maximum depth of the nested parenthesis.
+    
+    Problem7: convert to opposite case.
+    
+    Problem8: Maximum recurring character in a string.
+    
+    Problem9: Count number of words.
+    
+    Problem10: Find second max recurring character in the string. 
+    
+    Problem11: Print all the duplicates in the input string.
+    
+    Problem12: Print common character in two strings in alphabetical orders.
+    
+    Problem13: Remove minimum no of character so that two strings becomes anagram.
+    
+    Problem14: Remove characters from first string present in second.
+    
+    Problem15: Check if a binary string has 0 between 1's or not.
+    
+    Problem16: Divide a string in N equal parts.
+    
+    Problem17: Convert string into palindromic string by changing one character.
+    
+    Problem18: Given two strings find if  first string is a subsequence of second.
+    
+    Problem19: Program to remove spaces from a string.
+    
+    Problem20: Count characters at same position as in English Alphabet.
+ 	
  3.   LinkedList
  
-    Problem1: Finding middle element in a linked list
+    Problem1: Finding middle element in a linked list.
   
-    Problem2: Reverse a linked list
+    Problem2: Reverse a linked list.
 
-    Problem3: Rotate a Linked List
+    Problem3: Rotate a Linked List.
 
-    Problem4: Reverse a Linked List in groups of given size
+    Problem4: Reverse a Linked List in groups of given size.
     
-    Problem5: Detect Loop in linked list
+    Problem5: Detect Loop in linked list.
     
-    Problem6: Remove loop in Linked List
+    Problem6: Remove loop in Linked List.
     
-    Problem7: nth node from the end of list
+    Problem7: nth node from the end of list.
     
-    Problem11: pair wise swap
+    Problem8: Add 1 to the linked list.
     
-    Problem12: add two numbers represented ny linked list
+    Problem9: Delete m nodes after n nodes.
     
-    Problem14: Implement Stack using Linked List
+    Problem10: Check linked list is circular or not. 
     
-    Problem15: Implement Queue using Linked List
+    Problem11: pair wise swap.
     
-    Problem17: Delete without head pointer
+    Problem12: Add two numbers represented by linked list.
     
+    Problem13: Length of the linked list.
+    
+    Problem14: Implement Stack using Linked List.
+    
+    Problem15: Implement Queue using Linked List.
+    
+    Problem17: Delete without head pointer.
+    
+    Problem18: Function to get the Nth node of the linkedlist.
+    
+    Problem19: Function to print reverse of the linked list.
+    
+    Problem20: Search in a linked list.
+    
+    Problem21: delete the linked list.
+   
+    Problem22: Middle of the linked list.
+    
+    Problem23: Count the given interger in the list.
+    
+    Problem24: Find smallest and largest element in the list.
+    
+    Problem25: Remove duplicates from the sorted list.
+    
+    Problem26: Check whether the list is even or odd.
+    
+    Problem27: 
+    
+    Problem28: Delete the middle element.
+     
  4. Trees
  
-	1. Recursive pre order
+	1. Recursive pre-order
 	 
-	2. Recursive in order 
+	2. Recursive in-order 
 	
-	3. Recursive post order
+	3. Recursive post-order
 	
 	4. Non Recursive Level Order Traversal
 	
-	5. Non Recursive Pre order traversal
+	5. Non Recursive pre-order traversal
 	
-	6. Non recursive In order traversal
+	6. Non recursive in-order traversal
 	
-	7. Non recursive post order
+	7. Non recursive post-order
 	
 	8. reverse level order traversal
 	
@@ -82,5 +146,6 @@
 	
 	17. delete nodes of a tree Non recursive manner. **
 	
+	18. Count leaf nodes - recursively 
 	    
     
