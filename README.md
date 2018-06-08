@@ -12,6 +12,40 @@
     
     Problem5: Equilibrium point
     
+    Problem6: juggling algo for rotate an array.
+    
+    Problem7: reversal algo for rotate array
+    
+    Searching
+    ---------
+   
+    S1. Linear search
+    
+    S2. Binary Search
+    
+    S3. Interpolation search
+    
+    Miscellanous
+    ------------
+    M1. Union and Intersection of the array.
+    
+    M2. Find the Missing number
+    
+    M3. Find minimum distance between two numbers in an array.
+    
+    M4. Leaders in the array
+    
+    M5. Majority element.
+    
+    M6. Find the number occuring odd number of times.
+    
+    M7. Replace every element with greatest element on right side.
+    
+    M8. Find the fixed point in the array.
+    
+    M9. Find the peak element.
+ 
+
 2. Strings
     
     Problem1: Parenthesis checker
@@ -147,5 +181,28 @@
 	17. delete nodes of a tree Non recursive manner. **
 	
 	18. Count leaf nodes - recursively 
-	    
-    
+
+	19. Average of the sum of the level of the nodes.
+
+	20. print the leftmost and rightmost nodes of the tree.
+
+	21. Mirror image of the tree.	    
+	
+	22. Level order in spiral form.
+	
+	23. Print the sum of the all path from root to leaf nodes.
+	
+	24. Print right view of the tree.
+	
+	25. Print left view of the tree.
+	
+	26. Print top and bottom view of the tree.
+	
+	27. Print nodes between two given level.
+	
+	28. Minimum depth of a binary tree.
+	
+	29. 
+	
+	30.
+	

@@ -1,26 +1,34 @@
 package arrays;
 /*
- * 
- * leaders in a array
- * 
+ * Reversal algorithm : rotate of the array.
  */
-public class Problem7 {
-
-	public static void main(String[] args) {
-		
-		
-		int a[]= {16,17,4,3,5,2};
-		
-		int max=Integer.MIN_VALUE;
-		String s="";
-		for(int i=a.length-1;i>=0;i--)
+public class Problem7 
+{
+	static int[] reverse(int []a,int s,int e)
+	{
+		for(int i=s,j=e;i<j;i++,j--)
 		{
-				if(max<a[i])
-				{
-					max=a[i];
-					s=max+s;	
-				}
+			int temp=a[i];
+			a[i]=a[j];
+			a[j]=temp;
 		}
-	System.out.println(s);	
+		return a;
+	}
+	public static void main(String[] args) 
+	{
+			int a[]= {1,2,3,4,5,6,7};
+			int d=3;
+			int n=a.length;
+			
+			int starta=0;
+			int enda=d-1;
+			int startb=d;
+			int endb=n-1;
+			
+			a=reverse(a,starta,enda);
+			a=reverse(a,startb,endb);
+			a=reverse(a,0,n-1);
+			for(int i=0;i<a.length;i++)
+				  System.out.println(a[i]);
 	}
 }
